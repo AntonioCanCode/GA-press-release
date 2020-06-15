@@ -1,0 +1,56 @@
+body {
+    background-image: url("logo-2.jpg");
+    background-repeat: no-repeat;
+    background-position-y: top;
+    background-position-x: right;
+    background-size: 520px;
+    
+    
+}
+
+h1 {
+font-family: "roboto";
+color: black;
+font-weight: 900px;
+font-size: 56px;
+margin-top: 0px;
+margin-bottom: 1px;
+width: 1100px;
+}
+
+h4 {
+    color: tomato;
+    margin-top: 5px;
+    font-family: "oswald";
+    font-size: 24px;
+
+}
+
+p {
+    font-family: "roboto";
+    font-size: 22px;
+    width: 1100px;
+}
+
+ul {
+    text-align: center;
+    font-family: 'oswald';
+    font-size: 24px;
+    list-style-type: none;
+    margin-top: 35px;
+    margin-bottom: 85px;
+    
+}
+
+a[href^="https://generalassemb.ly/locations"] {
+color: black;
+text-decoration: none;
+font-weight: bold;
+padding-right: 50px;
+}
+
+div {
+    text-align: center;
+    font-family: "ozwald";
+    font-size: 22px;
+}
